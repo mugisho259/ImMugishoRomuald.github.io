@@ -1,0 +1,35 @@
+
+body{
+    background-color: black;
+    padding: 50px;
+    color: black;
+    display: block;
+    text-align: center;
+    img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    
+        text-shadow: 45px;
+    }
+    h1{
+        color: blue;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+}
+.about{
+background-color: white;
+margin-block-end: 60px;
+
+border-width: 45%;
+padding: 60px;
+max-width: max-content;
+text-align: center;
+float: center;
+position: fixed;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
